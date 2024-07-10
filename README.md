@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LAOLeary
 - 👀 I’m a former brain anatomist trying to get into coding, I love building things!
-- 🌱 I’m currently learning Python, C# and SQL. 
+- 🌱 I’m mainly learning Python, Html and C#.
 - 🖥️ I’m looking to collaborate on big data projects, especially those in the life sciences.
 - 📫 How to reach me -> See my LinkedIn!
 
